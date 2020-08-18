@@ -19,6 +19,7 @@
         </xsd:sequence>
     </xsd:complexType>
 
+
     <xsd:complexType name="CreateProductRequest">
         <xsd:complexContent>
             <xsd:extension base="Product">
